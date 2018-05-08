@@ -3,5 +3,5 @@
 #
 
 package.xml
-.sfdx
-.vscode
+.sfdx/
+.vscode/
